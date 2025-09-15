@@ -1,8 +1,8 @@
-# suivi-ebs-app
+# pedagoclic
 
 ## 🌱 Description
 
-**suivi-ebs-app** est une application collaborative destinée au suivi hebdomadaire des objectifs éducatifs pour les enfants à besoins spécifiques (EBS).  
+**pedagoclic** est une application collaborative destinée au suivi hebdomadaire des objectifs éducatifs pour les enfants à besoins spécifiques (EBS).  
 Elle permet aux enseignants, AESH, et familles de :
 
 - Fixer des objectifs personnalisés (autonomie, motricité fine, communication, vie de classe)
@@ -43,6 +43,6 @@ L'application est conçue pour être utilisée sur :
 > À compléter selon l’environnement ou déploiement final. Exemple ci-dessous :
 
 ```bash
-git clone https://github.com/ton-utilisateur/suivi-ebs-app.git
-cd suivi-ebs-app
+git clone https://github.com/Marie3emeVoie/pedagoclic.git
+cd pedagoclic
 # Ouvrir dans un navigateur ou via Replit
