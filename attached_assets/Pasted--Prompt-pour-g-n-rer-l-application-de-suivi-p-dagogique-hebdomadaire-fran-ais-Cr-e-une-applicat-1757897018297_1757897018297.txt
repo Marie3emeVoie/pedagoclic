@@ -1,0 +1,73 @@
+📱 Prompt pour générer l'application de suivi pédagogique hebdomadaire (français)
+Crée une application mobile (responsive) simple et ergonomique, accessible sur téléphone, tablette ou ordinateur.
+L'application est destinée à un administrateur et une équipe d'observateurs (enseignants, AESH, éducateurs, parents).
+Le but est d'assurer le suivi hebdomadaire individualisé d'enfants ayant des besoins éducatifs spécifiques, notamment une élève appelée Asma.
+Tous les utilisateurs parlent français.
+Fonctionnalités de l'app :
+1.	Connexion d’un administrateur (privé) et utilisateurs membres (observateurs).
+2.	Formulaire hebdomadaire à remplir pour chaque élève, comprenant les sections suivantes :
+________________________________________
+🧒 Informations de base (en haut du formulaire)
+•	Prénom de l'élève (champ texte)
+•	Nom de l'élève (champ texte)
+•	Classe (menu déroulant)
+•	Nom de l'observateur (champ texte libre)
+•	Semaine du [date] au [date] (sélecteur de date ou texte)
+________________________________________
+🎯 Objectifs et Compétences
+🔹 Autonomie (cases à cocher)
+•	S'habiller seul
+•	Se laver seul
+•	Aller aux toilettes seul
+•	Préparer son matériel
+•	Ranger ses affaires
+📝 Commentaire Autonomie (champ texte)
+🔹 Motricité Fine (cases à cocher)
+•	Tenir un crayon
+•	Découper avec des ciseaux
+•	Boutonner ses vêtements
+•	Attacher ses lacets
+•	Dessiner des formes
+•	Écrire son nom
+📝 Commentaire Motricité Fine (champ texte)
+🔹 Communication (cases à cocher)
+•	Exprimer ses besoins
+•	Répondre à des questions
+•	Initier une conversation
+•	Écouter activement
+•	Utiliser un vocabulaire approprié
+•	Comprendre des consignes simples
+📝 Commentaire Communication (champ texte)
+🔹 Vie de classe et socialisation (cases à cocher)
+•	Respecter les règles
+•	Partager avec les autres
+•	Attendre son tour
+•	Travailler en groupe
+•	Gérer les conflits
+•	Interagir positivement avec les pairs
+📝 Commentaire Vie de Classe et Socialisation (champ texte)
+________________________________________
+📆 Suivi Hebdomadaire (par jour)
+Pour chaque jour de la semaine (lundi à vendredi) :
+•	🎯 Objectif du jour (champ texte)
+•	✅ Statut (menu déroulant : Réussi / En cours / Non atteint)
+•	📝 Remarque (champ texte)
+________________________________________
+🏡 Suivi à la maison
+•	📌 Objectif retravaillé à la maison (case à cocher)
+•	✅ Réalisé / ❌ Non réalisé (boutons radio ou menu déroulant)
+📝 Commentaire Famille (champ texte)
+________________________________________
+📊 Observation finale (fin de semaine)
+📝 Évaluation de fin de semaine (champ texte)
+________________________________________
+💬 Zone de remarque libre ou suggestion
+📝 Commentaire libre (champ texte)
+________________________________________
+✅ Bouton final : "Soumettre le rapport"
+________________________________________
+🛠️ Bonus optionnel à activer si possible :
+•	Générer un résumé visuel ou graphique des compétences cochées
+•	Export PDF ou CSV
+•	Recherche par prénom/classe
+•	Historique des semaines précédentes
