@@ -1,0 +1,23 @@
+Copyright © 2025 Dina HARBI
+
+Tous droits réservés.
+
+Ce logiciel ainsi que les fichiers de documentation associés (le « Logiciel ») sont la propriété exclusive du titulaire des droits d’auteur.
+
+Toute copie, modification, distribution ou utilisation non autorisée du Logiciel est strictement interdite sans l’autorisation écrite expresse du titulaire des droits.
+
+Ce logiciel est destiné exclusivement à un usage personnel ou à des fins de test.  
+Pour toute utilisation commerciale, demande de licence ou intégration dans des plateformes tierces, veuillez contacter : dinaharbi@yahoo.com
+
+-------------------------------------------------------------
+
+Copyright © 2025 Dina HARBI
+
+All rights reserved.
+
+This software and associated documentation files (the "Software") are the exclusive property of the copyright holder.
+
+Unauthorized copying, modification, distribution, or use of the Software is strictly prohibited without the express written permission of the copyright holder.
+
+This software is intended for personal use and testing only. For commercial use, licensing, or integration into third-party platforms, please contact: dinaharbi@yahoo.com
+

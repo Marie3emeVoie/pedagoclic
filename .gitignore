@@ -1,6 +1,32 @@
-node_modules
-dist
+# Node modules
+node_modules/
+
+# Build output
+dist/
+.vite/
+.cache/
+
+# OS metadata
 .DS_Store
-server/public
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# Replit-specific files
+.replit
+replit.md
+
+# Vite config backups or temp
 vite.config.ts.*
 *.tar.gz
+
+# Server-side public uploads (optional, if user-generated content)
+server/public/
+
+# VS Code settings (optional, if you're sharing with collaborators)
+.vscode/
