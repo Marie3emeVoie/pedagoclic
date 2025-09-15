@@ -1,3 +1,4 @@
+console.log("REPLIT_CLIENT_ID is", process.env.REPLIT_CLIENT_ID);
 import * as client from "openid-client";
 import { Strategy, type VerifyFunction } from "openid-client/passport";
 
